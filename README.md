@@ -1,6 +1,7 @@
 # GIS Projects Portfolio
 
 This folder contains my Geographic Information Systems (GIS) projects, including static maps, spatial analysis work, and campus-focused GIS applications.  
+
 Most projects were completed using ArcGIS Pro and ArcGIS Online through coursework and my GIS internship at The Ohio State University.
 
 Each project demonstrates skills in cartography, spatial analysis, data management, and GIS workflows.
@@ -9,7 +10,7 @@ Each project demonstrates skills in cartography, spatial analysis, data manageme
 
 ## Contents
 
-This folder includes PDF map outputs and project summaries covering:
+This folder includes PDF map outputs:
 
 - Cartographic design and layout
 - Campus mapping projects
